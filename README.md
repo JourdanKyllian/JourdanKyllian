@@ -4,7 +4,7 @@
 
 ## Projets récents 🌱
 
-Je suis actuellement en préparation du titre de Bachelor Concepteur Développeur d'Application, je travaille donc occupé avec mon projet de fin d'année qui consiste a présenter une application multiplateforme que je développe avec les technos apprises durant l'année a savoir : 
+Actuellement, je me prépare à obtenir le titre de Bachelier Concepteur Développeur d'Applications. Mon emploi du temps est donc chargé, car je me concentre sur mon projet de fin d'année qui implique la création et la présentation d'une application multiplate-forme. Cette application est développée en utilisant les technologies que j'ai apprises tout au long de l'année, à savoir :
 
 **Client:** React Native, Angular, JavaFX
 
