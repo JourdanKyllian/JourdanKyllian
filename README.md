@@ -15,6 +15,7 @@ Je suis actuellement en préparation du titre de Bachelor Concepteur Développeu
 N'hésitez pas à me contacter pour discuter de projets, d'opportunités de collaboration ou simplement pour échanger des idées.
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyllian-jourdan-407b8b26b/)
+
 📫 Email : [kyllianjourdan@outlook.com](mailto:kyllianjourdan@outlook.com)
 
 ## Stack
