@@ -4,11 +4,14 @@
 
 ## Projets récents 🌱
 
-Actuellement, je me prépare à obtenir le titre de Bachelier Concepteur Développeur d'Applications. Mon emploi du temps est donc chargé, car je me concentre sur mon projet de fin d'année qui implique la création et la présentation d'une application multiplate-forme. Cette application est développée en utilisant les technologies que j'ai apprises tout au long de l'année, à savoir :
+Actuellement, je me prépare à obtenir le titre de Mastère expert en développement Logiciel Mobile et IoT. Fort d'une expérience d'une année en alternance réussi en tant que développeur Fullstack web/mobile, je suis à la recherche d'une entreprise ayant des besoins en développement web, mobile ou même logiciels et IoT. 
 
-**Client:** React Native, Angular, JavaFX
+Je serais particulièrement attiré par une structure organisée et moderne, prônant la curiosité et l'apprentissage de nouvelles technologies. Par ailleurs, je poursuis actuellement en autodidacte l'apprentissage de Nest, React et de React Native, dans le but de les intégrer dans mes futurs projets personnels et, pourquoi pas, dans le cadre professionnel.
 
-**Server:** Java (SpringBoot & Rest API), PostgreSQL
+### Pricipales technologies utilisées :
+**Client:** React, Angular, Bootstrap
+
+**Server:** Nest, Java (SpringBoot & Rest API), PostgreSQL
 
 ## Contact 💬
 
