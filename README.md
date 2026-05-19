@@ -9,9 +9,10 @@ Actuellement, je me prépare à obtenir le titre de Mastère expert en développ
 Je serais particulièrement attiré par une structure organisée et moderne, prônant la curiosité et l'apprentissage de nouvelles technologies. Par ailleurs, je poursuis actuellement en autodidacte l'apprentissage de Nest, React et de React Native, dans le but de les intégrer dans mes futurs projets personnels et, pourquoi pas, dans le cadre professionnel.
 
 ### Pricipales technologies utilisées :
-**Client:** React, Angular, Bootstrap
+**Client:** React, Next, Angular, Bootstrap, Tailwind
 
-**Server:** Nest, Java (SpringBoot & Rest API), PostgreSQL
+**Server:** Nest, Java (SpringBoot)
+PostgreSQL, MySQL, SQLite
 
 ## Contact 💬
 
