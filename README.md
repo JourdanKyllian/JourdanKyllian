@@ -3,7 +3,7 @@
 *Mon esprit créatif trouve son épanouissement dans la programmation, où chaque ligne de code offre une infinité de possibilités*
 
 ## Projets récents
-________
+___
 
 Actuellement, je me prépare à obtenir le titre de Mastère expert en développement Logiciel Mobile et IoT. Fort d'une expérience d'une année en alternance réussi en tant que développeur Fullstack web/mobile, je suis à la recherche d'une entreprise ayant des besoins en développement web, mobile ou même logiciels et IoT. 
 
